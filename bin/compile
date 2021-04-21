@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Swig library location: $SWIG_LIB"
+echo "Swig library contents: $(ls $SWIG_LIB)"
